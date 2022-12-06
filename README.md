@@ -1,5 +1,7 @@
 # LocalCaching
 
+run 3 steps on windows power shell by Admin user
+
 # Step 1: install chocolatey
 Set-ExecutionPolicy Bypass -Scope Process -Force; 
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
